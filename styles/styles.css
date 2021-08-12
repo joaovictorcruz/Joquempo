@@ -141,3 +141,10 @@ body{
 .image-move{
     width: 80%;
 }
+
+.button-active{
+    border: 1px solid red;
+    background-color: red;
+    color:#ffffff;
+    box-shadow: 5px 5px 10px #0000004d;
+}
